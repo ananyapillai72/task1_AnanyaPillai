@@ -1,0 +1,34 @@
+
+.container{
+        display: flex;
+        padding: 20px;
+        text-align: center;
+        margin: auto;
+        border: 2px solid black;
+        width: 350px;
+        height: 300px;
+        background-color: lightskyblue;
+
+}
+
+ 
+input[type=text]{
+padding: 10px;
+}
+
+.email{
+        margin-bottom: 0.5vw;
+        border: 5px solid black;
+        display: inline-block;
+}
+.password{
+        margin-bottom: 0.5vw;
+        border: 5px solid black;
+        display: inline-block;
+}
+.login{
+        margin-bottom: 00.5vw;
+}
+.link{
+
+}
